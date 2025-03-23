@@ -1,0 +1,10 @@
+kz\kbtu\soapcountryservice\CountryRepository.class
+io\spring\guides\gs_producing_web_service\ObjectFactory.class
+io\spring\guides\gs_producing_web_service\GetCountryResponse.class
+kz\kbtu\soapcountryservice\WebServiceConfig.class
+io\spring\guides\gs_producing_web_service\Country.class
+kz\kbtu\soapcountryservice\SoapCountryServiceApplication.class
+io\spring\guides\gs_producing_web_service\GetCountryRequest.class
+io\spring\guides\gs_producing_web_service\package-info.class
+io\spring\guides\gs_producing_web_service\Currency.class
+kz\kbtu\soapcountryservice\CountryEndpoint.class

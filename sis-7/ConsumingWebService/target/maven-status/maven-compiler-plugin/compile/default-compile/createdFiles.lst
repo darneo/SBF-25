@@ -1,0 +1,11 @@
+kz\kbtu\consumingwebservice\CountryConfiguration.class
+com\example\consumingwebservice\wsdl\CountriesPortService.class
+com\example\consumingwebservice\wsdl\Currency.class
+com\example\consumingwebservice\wsdl\GetCountryRequest.class
+kz\kbtu\consumingwebservice\CountryClient.class
+com\example\consumingwebservice\wsdl\GetCountryResponse.class
+com\example\consumingwebservice\wsdl\package-info.class
+kz\kbtu\consumingwebservice\ConsumingWebServiceApplication.class
+com\example\consumingwebservice\wsdl\CountriesPort.class
+com\example\consumingwebservice\wsdl\Country.class
+com\example\consumingwebservice\wsdl\ObjectFactory.class
